@@ -1,0 +1,18 @@
+[
+    {
+      "__EMPTY": "Ushoran",
+      "Name": "Ushoran",
+      "Move": 10,
+      "Wounds": 16,
+      "Bravery": 10,
+      "Save": 4
+    },
+    {
+      "__EMPTY": "Roi_Goule_Abhorrant",
+      "Name": "Roi-Goule Abhorrant",
+      "Move": 6,
+      "Wounds": 6,
+      "Bravery": 10,
+      "Save": 4
+    }
+  ]
